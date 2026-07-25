@@ -27,7 +27,7 @@ body{
 	width: 170%;
 	height: 450px;
 	opacity: 0.4;
-	object-fit: vertical;
+	object-fit: cover;
 	display: block;
 }
 
